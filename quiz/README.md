@@ -1,62 +1,52 @@
-# ATM Simulation Application
-Welcome to the ATM Simulation Application! This project is a simulation of an ATM system, developed using Java Swing and integrated with a MySQL database. It includes essential ATM functionalities such as balance check, withdrawal, deposit, transaction history, and PIN change.
+# Quiz Application
+Welcome to the Quiz Application! This application is designed to test your knowledge in various subjects, including Java, Python, C, and MySQL. Built using Java Swing, it provides a user-friendly interface for an engaging quiz experience.
 
-🚀 Features
-Balance Check: Easily check your current account balance.
-Cash Withdrawal: Withdraw cash from your account with instant balance updates.
-Deposit: Deposit funds into your account and see the updated balance.
-Transaction History: View a mini statement of your recent transactions.
-PIN Change: Securely update your ATM PIN.
-MySQL Integration: All user data, transactions, and account information are stored in a MySQL database, ensuring data persistence and reliability.
-🛠️ Getting Started
-Prerequisites
+## 🚀 Features
+Multiple Subjects: Choose from four subjects—Java, Python, C, and MySQL.
+<br>Timed Quiz: Each quiz session is limited to 2 minutes, adding a sense of urgency and challenge.
+<br>10 MCQs: Each quiz consists of 10 multiple-choice questions.
+<br>Instant Scoring: Get your results immediately after completing the quiz.
+<br>Interactive UI: Developed with Java Swing for a smooth and responsive user experience.
+## 🛠️ Getting Started
+### Prerequisites
 Java Development Kit (JDK) installed on your machine.
-MySQL server running on your machine.
-Basic understanding of Java, Java Swing, and SQL.
-Installation
+<br>Basic understanding of Java and Java Swing.
+### Installation
 Clone the repository to your local machine:
-
+<br>bash
+<br>Copy code
+<br>git clone https://github.com/your-github-username/quiz-application.git
+### Navigate to the project directory:
 bash
-Copy code
-git clone https://github.com/your-github-username/atm-simulation.git
-Navigate to the project directory:
+<br>Copy code
+<br>cd quiz-application
+<br>Compile and run the program:
+<br>bash
+<br>Copy code
+<br>javac QuizApplication.java
+<br>java QuizApplication
+## 📸 Screenshots
 
-bash
-Copy code
-cd atm-simulation
-Set up the MySQL database:
+![image](https://github.com/user-attachments/assets/39d5bdcd-525b-432f-884c-007f59b7bac3)
 
-Import the provided SQL script (database.sql) to set up the necessary tables.
-Update the database connection settings in the code to match your local MySQL configuration.
-Compile and run the program:
+![image](https://github.com/user-attachments/assets/2457d28f-3ff8-42ab-b46f-16e4f8563c98)
 
-bash
-Copy code
-javac ATMApplication.java
-java ATMApplication
-📸 Screenshots
-Add screenshots of the ATM application's interface to give users a visual overview.
+![image](https://github.com/user-attachments/assets/b4d2d291-b4ee-4c55-9ec8-801d521697f4)
 
-📚 How to Use
-Start the Application: Launch the ATM Simulation Application.
-Login: Enter your card number and PIN to access your account.
-Navigate Through Options:
-Balance Check: View your current balance.
-Withdrawal: Enter the amount to withdraw from your account.
-Deposit: Enter the amount to deposit into your account.
-Transaction History: View a mini statement of recent transactions.
-PIN Change: Update your ATM PIN securely.
-Logout: Safely exit the application after completing your transactions.
-👨‍💻 Technologies Used
+## 📚 How to Use
+Start the Application: Launch the Quiz Application.
+<br>Choose a Subject: Select from Java, Python, C, or MySQL.
+<br>Start the Quiz: The quiz begins immediately with a 2-minute timer.
+<br>Answer Questions: Choose the correct answer for each of the 10 multiple-choice questions.
+<br>Submit Quiz: Submit your answers before the timer runs out.
+<br>View Results: Your score will be displayed instantly after submission.
+## 👨‍💻 Technologies Used
 Java
-Java Swing
-MySQL
-🤝 Contributing
+<br>Java Swing
+## 🤝 Contributing
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please create an issue or submit a pull request.
 
-📜 License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-📧 Contact
+## 📧 Contact
 For any questions, suggestions, or feedback, feel free to reach out to me via LinkedIn or GitHub.
+#### LinkedIn : https://www.linkedin.com/in/kuldip-parbat/
 
