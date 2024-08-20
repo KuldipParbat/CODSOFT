@@ -1,14 +1,14 @@
 # ATM Simulation Application
 Welcome to the ATM Simulation Application! This project is a simulation of an ATM system, developed using Java Swing and integrated with a MySQL database. It includes essential ATM functionalities such as balance check, withdrawal, deposit, transaction history, and PIN change.
 
-🚀 Features
+## 🚀 Features
 Balance Check: Easily check your current account balance.
 Cash Withdrawal: Withdraw cash from your account with instant balance updates.
 Deposit: Deposit funds into your account and see the updated balance.
 Transaction History: View a mini statement of your recent transactions.
 PIN Change: Securely update your ATM PIN.
 MySQL Integration: All user data, transactions, and account information are stored in a MySQL database, ensuring data persistence and reliability.
-🛠️ Getting Started
+## 🛠️ Getting Started
 Prerequisites
 Java Development Kit (JDK) installed on your machine.
 MySQL server running on your machine.
@@ -34,10 +34,10 @@ bash
 Copy code
 javac ATMApplication.java
 java ATMApplication
-📸 Screenshots
+## 📸 Screenshots
 Add screenshots of the ATM application's interface to give users a visual overview.
 
-📚 How to Use
+## 📚 How to Use
 Start the Application: Launch the ATM Simulation Application.
 Login: Enter your card number and PIN to access your account.
 Navigate Through Options:
@@ -47,16 +47,16 @@ Deposit: Enter the amount to deposit into your account.
 Transaction History: View a mini statement of recent transactions.
 PIN Change: Update your ATM PIN securely.
 Logout: Safely exit the application after completing your transactions.
-👨‍💻 Technologies Used
+## 👨‍💻 Technologies Used
 Java
 Java Swing
 MySQL
-🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please create an issue or submit a pull request.
 
-📜 License
+## 📜 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-📧 Contact
+## 📧 Contact
 For any questions, suggestions, or feedback, feel free to reach out to me via LinkedIn or GitHub.
 
