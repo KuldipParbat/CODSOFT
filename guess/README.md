@@ -1,62 +1,50 @@
-# ATM Simulation Application
-Welcome to the ATM Simulation Application! This project is a simulation of an ATM system, developed using Java Swing and integrated with a MySQL database. It includes essential ATM functionalities such as balance check, withdrawal, deposit, transaction history, and PIN change.
+# Guess Number Game
+Welcome to the Guess Number Game! This is a simple and fun game built using Java Swing. The game challenges players to guess a randomly generated number within a certain range, with feedback provided for each guess.
 
-🚀 Features
-Balance Check: Easily check your current account balance.
-Cash Withdrawal: Withdraw cash from your account with instant balance updates.
-Deposit: Deposit funds into your account and see the updated balance.
-Transaction History: View a mini statement of your recent transactions.
-PIN Change: Securely update your ATM PIN.
-MySQL Integration: All user data, transactions, and account information are stored in a MySQL database, ensuring data persistence and reliability.
-🛠️ Getting Started
+## 🚀 Features
+Intuitive GUI: Built with Java Swing to provide a smooth user experience.
+Random Number Generation: Each game starts with a random number that the player needs to guess.
+<br>User Feedback: Players are informed whether their guess is too high, too low, or correct.
+<br>Retry Option: Players can continue guessing until they find the correct number.
+## 🛠️ Getting Started
 Prerequisites
-Java Development Kit (JDK) installed on your machine.
-MySQL server running on your machine.
-Basic understanding of Java, Java Swing, and SQL.
-Installation
-Clone the repository to your local machine:
-
+<br>Java Development Kit (JDK) installed on your machine.
+<br>Basic understanding of Java and Java Swing.
+## Installation
+### Clone the repository to your local machine:
 bash
-Copy code
-git clone https://github.com/your-github-username/atm-simulation.git
-Navigate to the project directory:
-
+<br>Copy code
+<br>git clone https://github.com/KuldipParbat/CODSOFT/edit/main/guess
+### Navigate to the project directory:
 bash
-Copy code
-cd atm-simulation
-Set up the MySQL database:
+<br>Copy code
+<br>cd NumberGuess
+<br>Compile and run the program:
+<br>bash
+<br>Copy code
+<br>javac NumberGuess.java
+<br>java NumberGuess
 
-Import the provided SQL script (database.sql) to set up the necessary tables.
-Update the database connection settings in the code to match your local MySQL configuration.
-Compile and run the program:
+## 📸 Screenshots
 
-bash
-Copy code
-javac ATMApplication.java
-java ATMApplication
-📸 Screenshots
-Add screenshots of the ATM application's interface to give users a visual overview.
 
-📚 How to Use
-Start the Application: Launch the ATM Simulation Application.
-Login: Enter your card number and PIN to access your account.
-Navigate Through Options:
-Balance Check: View your current balance.
-Withdrawal: Enter the amount to withdraw from your account.
-Deposit: Enter the amount to deposit into your account.
-Transaction History: View a mini statement of recent transactions.
-PIN Change: Update your ATM PIN securely.
-Logout: Safely exit the application after completing your transactions.
-👨‍💻 Technologies Used
-Java
-Java Swing
-MySQL
-🤝 Contributing
-Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please create an issue or submit a pull request.
+![image](https://github.com/user-attachments/assets/3f7bcd8c-1499-4798-8ad1-53a9405968be)
 
-📜 License
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
-📧 Contact
-For any questions, suggestions, or feedback, feel free to reach out to me via LinkedIn or GitHub.
+
+## 📚 How to Play
+Start the game, and a random number will be generated.
+<br>Enter your guess in the input field.
+<br>Click the "Guess" button to submit your guess.
+<br>The game will provide feedback—either "Too High," "Too Low," or "Correct!"
+<br>Continue guessing until you find the correct number.
+## 👨‍💻 Technologies Used
+### Java
+### Java Swing
+## 🤝 Contributing
+Contributions are welcome! If you have any suggestions or find any bugs, please create an issue or submit a pull request.
+
+## 📧 Contact
+If you have any questions or suggestions, feel free to reach out to me via LinkedIn or GitHub.
+#### LinkedIn : https://www.linkedin.com/in/kuldip-parbat/
 
